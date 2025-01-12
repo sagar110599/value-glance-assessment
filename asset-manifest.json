@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/value-glance-assessment/financial-data-app/static/css/main.0c9ba078.css",
-    "main.js": "/value-glance-assessment/financial-data-app/static/js/main.0ec6f2bf.js",
-    "static/js/563.dc47b950.chunk.js": "/value-glance-assessment/financial-data-app/static/js/563.dc47b950.chunk.js",
-    "index.html": "/value-glance-assessment/financial-data-app/index.html",
-    "main.0c9ba078.css.map": "/value-glance-assessment/financial-data-app/static/css/main.0c9ba078.css.map",
-    "main.0ec6f2bf.js.map": "/value-glance-assessment/financial-data-app/static/js/main.0ec6f2bf.js.map",
-    "563.dc47b950.chunk.js.map": "/value-glance-assessment/financial-data-app/static/js/563.dc47b950.chunk.js.map"
+    "main.css": "/value-glance-assessment/static/css/main.0c9ba078.css",
+    "main.js": "/value-glance-assessment/static/js/main.9355185d.js",
+    "static/js/453.957b7cd4.chunk.js": "/value-glance-assessment/static/js/453.957b7cd4.chunk.js",
+    "index.html": "/value-glance-assessment/index.html",
+    "main.0c9ba078.css.map": "/value-glance-assessment/static/css/main.0c9ba078.css.map",
+    "main.9355185d.js.map": "/value-glance-assessment/static/js/main.9355185d.js.map",
+    "453.957b7cd4.chunk.js.map": "/value-glance-assessment/static/js/453.957b7cd4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c9ba078.css",
-    "static/js/main.0ec6f2bf.js"
+    "static/js/main.9355185d.js"
   ]
 }
