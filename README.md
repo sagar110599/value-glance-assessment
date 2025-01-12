@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Set up project Locally
+
+1) Run command git clone https://github.com/sagar110599/value-glance-assessment.git
+2) Run command npm install
+3) Run command npm run start
+4) Deployed URL: https://sagar110599.github.io/value-glance-assessment/
+
 ## Available Scripts
 
 In the project directory, you can run:
